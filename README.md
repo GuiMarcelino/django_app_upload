@@ -1,6 +1,6 @@
 # WEB Upload Files:
 
-#### tecnologias utilizadas - Python 3.9.4 , Django
+#### tecnologias utilizadas - Python 3.9.4 , Django , DB sqlite
 
 ## Desafio velow ##
 Aplicação web que captura dados de um determinado arquivo, normaliza os dados armazena no banco (sqlite) faz o cálculo dos campos `(item_price)` / `(purchase_count)` e retorna valor bruto total de vendas para pagina web.
